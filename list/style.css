@@ -1,0 +1,12 @@
+#listen {
+    width: 100%;
+    min-height: 10ch;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#listen div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
